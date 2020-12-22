@@ -1,6 +1,7 @@
 # FingerPrint2
 
 https://github.com/devel-retar-jp/DeviceFingerPrintHTML
+
 こちらのリポジットは駄作です。
 HTMLとJavaScriptの関係のある部分だけのバージョンをみてください。
 
