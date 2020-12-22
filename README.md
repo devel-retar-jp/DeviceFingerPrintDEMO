@@ -1,5 +1,9 @@
 # FingerPrint2
 
+https://github.com/devel-retar-jp/DeviceFingerPrintHTML
+こちらのリポジットは駄作です。
+HTMLとJavaScriptの関係のある部分だけのバージョンをみてください。
+
 2020/12/19の日経朝刊１面にデバイスフィンガープリントの話題が載っていましたので作ってみました。
 
 機能を理解するために書いてみました。
